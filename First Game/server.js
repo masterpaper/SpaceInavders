@@ -18,6 +18,6 @@ var server = http.createServer(function (req, resp) {
     }
 });
 //5.
-server.listen(5050);
+server.listen(3000);
  
-console.log('Server Started listening on 30');
+console.log('Server Started listening on 3000');
